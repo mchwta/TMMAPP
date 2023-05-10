@@ -1,0 +1,23 @@
+.custom-calendar .fc-day-header {
+    font-size: 1rem; /* change the font size of the day header */
+  }
+  
+  .custom-calendar .fc-event-title {
+    font-size: 0.9rem; /* change the font size of the event title */
+    font-weight: bold; /* make the event title bold */
+    color: #333; /* change the color of the event title */
+  }
+  
+  .completed .fc-event-main {
+    background-color: rgb(109, 145, 128) !important;
+  }
+  
+  .not-completed .fc-event-main {
+    background-color: rgb(191, 131, 131) !important;
+  }
+  
+  .fc-day-grid-event {
+    height: calc(100% - 2px);
+  }
+  
+  

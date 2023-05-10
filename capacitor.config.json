@@ -1,0 +1,13 @@
+{
+  "appId": "org.example.tmma",
+  "appName": "TMMA",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  },
+  "cordova": {}
+}
